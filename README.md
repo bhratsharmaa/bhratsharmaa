@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">:octocat: Hello, I'm Bhrat Sharma <img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/></h1>
-  <h2 align="center">An aspiring Data Analyst  :computer:</h2>
+  <h2 align="center">Data Analyst  :computer:</h2>
 
   <p align="center">I'm a computer enthusiast 🖥️ deeply invested in data analytics because of the fascinating insights we can extract from raw data. It's incredible how simple data points can reveal profound patterns and trends. I've built some exciting projects in this field, and I'm always eager to share them with you! When I'm not coding, you'll find me lost in books 📘, immersed in music 🎵, or hitting the gym to stay active. Let's chat about creative coding and emerging tech — feel free to reach out anytime! 😃</p>
   
